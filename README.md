@@ -1,2 +1,2 @@
 # Automated-Invoice-System
-Automated Invoice System - Automated using VBA
+Automated Invoice System - Automated using Excel VBA
